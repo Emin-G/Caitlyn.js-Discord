@@ -15,6 +15,8 @@
  2. `cd Caitlyn.js-Discord/`
  3. `npm install`
 
+실행 전 .env 파일에 RIOT_API, BOT_TOKEN 을 붙여 넣어주세요!
+
 ## 사용법
 
  - **소환사의 정보 불러오기**
