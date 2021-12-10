@@ -15,4 +15,10 @@
  2. `cd Caitlyn.js-Discord/`
  3. `npm install`
 
+## 사용법
+
+ - **소환사의 정보 불러오기**
+
+> 밍밍아 정보 [소환사 이름]
+
 ## <a href="https://github.com/Emin-G/Caitlyn.js" target="_blank">Caitlyn.js Preview 로 가기</a>
